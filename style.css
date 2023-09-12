@@ -1,0 +1,72 @@
+/*  defaultt css start */
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6,a,p{
+    font-family: 'Lato', sans-serif;
+}
+
+
+  /*  default css end  */
+
+  /*  form header css  */
+  .form-header{
+    text-align: center;
+    padding: 50px 20px ;
+    font-size: 2rem;
+    color: white;
+  }
+  body{
+    background-color: rgb(6, 94, 129);
+  
+  }
+  .form-left-img img{
+max-width: 100%;
+  }
+
+  .singup-btn{
+    background-color: black;
+    padding: 15px 50px ;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+  }
+ .singup-btn:hover{
+ color: whitesmoke;
+  }
+  .form-left-img{
+background: url(./img/377923320_706128468015452_1367183685903699104_n.gif) no-repeat center;
+background-size: cover;
+width: 100%;
+height: 100%;
+  }
+  .form-left-img h3{
+    color: whitesmoke;
+    margin-top: 10rem;
+    font-weight: 700;
+    font-size: 2.5rem;
+  }
+
+  .Login-btn {
+    background-color: #198754;
+    margin:10rem;
+    margin-top: 0rem;
+    display: inline-block;
+    font-weight: bold;
+    padding: 15px 50px ;
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  .Login-btn:hover{
+   color: whitesmoke;
+  }
+    /*  form header css  */
+
+    /*  singup form css start */
+
+
+    /*  singup-form css end  */
